@@ -1,5 +1,44 @@
 # Home Assistant Integration for SENEC.Home V2.x/V3/V4 Systems
 
+
+
+# Unterstütze Geräte
+
+# Setup / Installation
+
+## HACS
+
+## Manual
+
+## Lokales Gerät
+
+## Web API
+
+## Inverter
+
+## Switching to this fork
+
+## Setting up Energy Dashboard
+
+# Unterstützte Features und Sensoren
+
+## Lokales Gerät
+-Feature Laden/Entladen Switch
+-Sensoren
+
+## Web API
+-Feature Notstromreserve
+-Infos Lesen
+
+# Unterstützer / Referenzen
+-Ursprüngliches Repository
+-Aktuelle Etwickler
+
+# Entwickler Dokumentation
+
+# Disclaimer
+-Alles auf eigene Gefhar hin nutzen
+
 This fork was created from [mchwalisz/home-assistant-senec](https://gitgub.com/mchwalisz/home-assistant-senec) mainly
 because I wanted additional fields and some configuration options (like polling interval). Since I own a
 __SENEC.Home V3 hybrid duo__ I can __only test my adjustments in such a configuration__.
